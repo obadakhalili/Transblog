@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "name": "transblog",
+  "repository": "https://github.com/obadakhalili/transblog.git",
+  "author": "Obada Khalili <obada.akhalili@gmail.com>",
+  "license": "MIT",
+  "workspaces": ["packages/*"]
+}
